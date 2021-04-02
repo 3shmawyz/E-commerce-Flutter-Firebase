@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781489169733",
+    "project_id": "shop-765a2",
+    "storage_bucket": "shop-765a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781489169733:android:8c0b222b38f94e69e00a2c",
+        "android_client_info": {
+          "package_name": "com.ashmawyz.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781489169733-uob71pr462hlnii66it6r68m51c45ai8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAoHxYqZSsv7Ey2h1DjbiUD3ovLNZiNQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781489169733-uob71pr462hlnii66it6r68m51c45ai8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
